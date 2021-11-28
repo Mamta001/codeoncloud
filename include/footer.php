@@ -7,17 +7,17 @@
                     <div class="col-sm-6 col-md-3 item" style = "width:20%;">
                         <h3>Services</h3>
                         <ul>
-                            <li><a href="http://localhost/DreamTeam_Capstone/">Compilers</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/">Tutorials</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/contact.php">Conatct Us</a></li>
+                            <li><a href="/">Compilers</a></li>
+                            <li><a href="/">Tutorials</a></li>
+                            <li><a href="/contact.php">Conatct Us</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-md-3 item" style = "width:20%;">
                         <h3>About</h3>
                         <ul>
                             <li><a href="#">Dream Team</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/about.php">About Us</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/contact.php">Contact Us</a></li>
+                            <li><a href="/about.php">About Us</a></li>
+                            <li><a href="/contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="col-md-6 item text" style = "width:60%;">

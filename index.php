@@ -112,12 +112,12 @@
 <div id="menu1" class="tab-pane fade">
     <div style = "margin-top:50px;">
     	<div class="row"> 
-        	<a href="http://localhost/DreamTeam_Capstone/tutec.php" style="font-size:24px;margin-left:30px">
+        	<a href="/tutec.php" style="font-size:24px;margin-left:30px">
             <span class="glyphicon glyphicon-tree-deciduous">
             <br/> C
             </span>
             </a>
-            <a href="http://localhost/DreamTeam_Capstone/tutecss.php">
+            <a href="/tutecss.php">
             <span class="glyphicon glyphicon-tree-deciduous" style="font-size:24px;margin-left:30px">
             <br/> CSS
             </span>

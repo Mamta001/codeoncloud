@@ -28,7 +28,7 @@
     <h2>Meet Our Team </h2>
       <p style="font-size:17px; margin-top:20px;"> We all are very different from each other, But, there is one thing that unites us, our love for coding.<br>
       Everyone is very passionate about thier work. Everyone had unique ideas about project <br>and was always ready to help each other that helps to make this project more succesfull.</p>
-     <a href="http://localhost/DreamTeam_Capstone/contact.php"> <button type="submit" class="btn btn-secondary btn_" onClick="http://localhost/DreamTeam_Capstone/contact.php">Contact Us</button></a>
+     <a href="/contact.php"> <button type="submit" class="btn btn-secondary btn_" onClick="http://localhost/DreamTeam_Capstone/contact.php">Contact Us</button></a>
   </div>
 
 
