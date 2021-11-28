@@ -138,11 +138,10 @@ echo "
                   </div>
                 </div>
               </div>
-            </div>
-            <!--END Modal --> 
+            </div> 
           </div>
         </div>
-        <br/>
+        
       </div>
       <br/>
       <iframe name="output" height="300" width="100%" src="html_output.php" class="output" id="output">
