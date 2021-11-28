@@ -32,7 +32,7 @@
   </div>
 
 
-<!--comment-->
+
 
 <!-- Image with content-->
 <div class="about">
