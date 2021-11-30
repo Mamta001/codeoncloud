@@ -15,7 +15,7 @@
     height:300px;
   }
   </style>
-
+<!--style End-->
 <!-- JavaScript Files-->
 <script src="js/script.js"></script>
 

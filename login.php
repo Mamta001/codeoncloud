@@ -35,6 +35,7 @@ color:black !important;
 	margin-bottom: 20px;
 }
 </style>
+<!--Style end-->
 </HEAD>
 <body style = "background-color:#F7F7F7">
 <div class="col-lg-12 col-md-12 col-sm-12">
