@@ -5,6 +5,7 @@
 <title>HTML</title>
 </head>
 <body>
+	<!--php-->
 <?php
 if(isset($_POST['editor'])) {
 	$content = "
