@@ -7,6 +7,7 @@
 <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+	<!-- Php Begain-->
 <?php
 	$query = null;
 	if(isset($_POST['editor'])) {
