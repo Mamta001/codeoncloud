@@ -5,6 +5,7 @@
 <title>PHP</title>
 </head>
 <body>
+	<!--php-->
 <?php
 if(isset($_POST['editor'])) {
 	$name = (rand()*100+1);

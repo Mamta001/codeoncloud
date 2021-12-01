@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>PHP Compiler</title>
 
-<!-- Stylesheet files-->
+<!-- CSS files-->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link href="css/style.css" rel="stylesheet" type="text/css">

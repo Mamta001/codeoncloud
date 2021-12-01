@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Cloud Compiler</title>
 
-<!-- Stylesheet files-->
+<!-- CSS files-->
 
 <link href="css/style.css?version=1" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
